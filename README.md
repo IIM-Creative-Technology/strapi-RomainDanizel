@@ -4,6 +4,6 @@ Romain DANIZEL 3A C&DI
 
 Le fichier react-front est le front du projet, il tourne sur un localhost:3000
 
-Le fichier romain-rendus est le strapi 
+Le fichier romain-rendus est le strapi, il tourne sur un localhost:1337
 
 Le strapi a était fait avec docker sur une db postgres
